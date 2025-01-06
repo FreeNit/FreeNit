@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @FreeNit
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on chalanging and interestin project
-- 📫 How to reach me 
+- 🌱 I`m practicing React ⚛, TypeScript, Phaser 3 🎮...
 
 <!---
 FreeNit/FreeNit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
